@@ -20,7 +20,7 @@ devices = {
     "Pabrik D Sortasi" : "192.168.2.22",        #   OK
 }
 
-test = True
+test = False
 
 for device in devices:
     conn = None
