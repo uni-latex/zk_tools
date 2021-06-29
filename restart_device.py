@@ -13,6 +13,7 @@ devices = {
     "Pabrik E 1"                    : "192.168.15.20",      #   OK
     "Pabrik E 2"                    : "192.168.15.21",      #   OK
     "Pabrik E Sortasi"              : "192.168.15.22",      #   OK
+    "Pabrik F"                      : "192.168.16.21",      #   OK
     "F KHL /  KHT"                  : "172.16.56.6",        #   OK
     "Parkiran Pabrik C"             : "172.16.56.7",        #   OK
     "H Proyek"                      : "172.16.56.8",        #   OK
