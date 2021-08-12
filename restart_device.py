@@ -48,5 +48,5 @@ for device in devices:
             conn.restart()
             displayMessage('Done restart')
     except Exception as e:
-        displayMessage('Restart status: ' + str(e))
+        displayMessage('*** ERROR status: ' + str(e) + ' ***')
     
